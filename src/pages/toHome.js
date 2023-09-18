@@ -12,7 +12,7 @@ const Home = () => {
         <h3>Home Page</h3>
 
         <h1>hy, Ashique Ali Krz</h1>
-      </Container>
+      </Container>    
     </div>
   );
 };
